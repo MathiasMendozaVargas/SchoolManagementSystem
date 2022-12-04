@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\CSharpCourse\Basics\bin\Debug\net7.0\Basics.exe
+C:\Users\User\Desktop\CSharpCourse\Basics\bin\Debug\net7.0\Basics.deps.json
+C:\Users\User\Desktop\CSharpCourse\Basics\bin\Debug\net7.0\Basics.runtimeconfig.json
+C:\Users\User\Desktop\CSharpCourse\Basics\bin\Debug\net7.0\Basics.dll
+C:\Users\User\Desktop\CSharpCourse\Basics\bin\Debug\net7.0\Basics.pdb
+C:\Users\User\Desktop\CSharpCourse\Basics\obj\Debug\net7.0\Basics.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\CSharpCourse\Basics\obj\Debug\net7.0\Basics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\CSharpCourse\Basics\obj\Debug\net7.0\Basics.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\CSharpCourse\Basics\obj\Debug\net7.0\Basics.AssemblyInfo.cs
+C:\Users\User\Desktop\CSharpCourse\Basics\obj\Debug\net7.0\Basics.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\CSharpCourse\Basics\obj\Debug\net7.0\Basics.dll
+C:\Users\User\Desktop\CSharpCourse\Basics\obj\Debug\net7.0\refint\Basics.dll
+C:\Users\User\Desktop\CSharpCourse\Basics\obj\Debug\net7.0\Basics.pdb
+C:\Users\User\Desktop\CSharpCourse\Basics\obj\Debug\net7.0\Basics.genruntimeconfig.cache
+C:\Users\User\Desktop\CSharpCourse\Basics\obj\Debug\net7.0\ref\Basics.dll
